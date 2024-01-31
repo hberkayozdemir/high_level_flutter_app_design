@@ -1,0 +1,22 @@
+name: local_database
+description: A new Flutter project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.2.6'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  floor: 1.4.2
+  sqflite: 2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 3.0.1
+  floor_generator: 1.4.2
+  build_runner: 2.4.8
+
+flutter:
