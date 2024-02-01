@@ -187,17 +187,14 @@ setUp(() {
   });
 ```
 
-````
-
-
-
 ## Source
-
-**Step 1:**
 
 This project forked and upgraded from @zeref278:
 
 ```
 https://github.com/zeref278/flutter_boilerplate.git
 ```
-````
+
+```
+
+```
